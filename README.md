@@ -81,3 +81,4 @@ python3 agent.py "Which team has the most players averaging over 25 points per g
 - Swap SQLite for a cloud warehouse (Snowflake/Databricks) and adjust
   the agent's schema prompt accordingly
 - Add unit tests for the validation logic
+# sports-stats-agent
